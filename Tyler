@@ -1,0 +1,50 @@
+Html file 
+<!Doctype html>
+<html lang="en">
+    <head>
+        <title>
+            My favorite artist Tyler the Creator
+        </title>
+        <body>
+<H1>Tyler the creator</H1>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlyXfBMhyHwoEOhLKlK49BShBQSQvCejyYsQ&s">
+<ul>
+<li>Biography </li> 
+<li>Discography</li>
+<li>Call Me If You Get Lost</li>
+<li> Links</li>
+</ul>
+<h1>Biography</h1>
+<p> 
+    Tyler Gregory Okonma (born March 6, 1991), professionally known as Tyler, the Creator, is an American rapper and record producer.
+    He is one of the founding members of the music collective Odd Future.
+   Okonma self-released his debut mixtape Bastard in 2009 and rapidly gained attention among the online music press for his horrorcore-influenced sound and violent, transgressive lyrical content. 
+   His debut studio album Goblin (2011), brought him mainstream exposure aided by the popularity of the single "Yonkers" and its accompanying music video; during this period Odd Future gained rapid popularity and Okonma faced controversy over his lyrics. 
+   Beginning with his second album Wolf (2013), Okonma began moving away from his stylistic horrorcore towards a more alternative hip hop sound. 
+   His 2015 album Cherry Bomb featured a greater focus on melody and jazz-fused sounds which has continued throughout his later discography. 
+   Okonma's later albums, Flower Boy (2017), Igor (2019) and Call Me If You Get Lost (2021), were all released to widespread critical acclaim, with the latter two debuting at number one on the Billboard 200 and each winning Best Rap Album at the 2020 and 2022 Grammy Awards, respectively.   
+</p>
+<h1>Discography</h1>
+<ol>
+<li>Goblin (2011)</li>
+<li>Wolf (2013)</li>
+<li>Cherry Bomb (2015)</li>
+<li>Flower Boy (2017)</li>
+<li>Igor (2019)</li>
+<li>Call Me If You Get Lost (2021)</li>
+</ol>
+</p>
+<h1>Call Me If You Get Lost</h1>
+<p>
+    he album marks a departure from the lighter and more soulful aesthetics of Igor (2019) and Flower Boy (2017) in favor of brash beats and raw rhymes, influenced by DJ Drama's Gangsta Grillz mixtape series. 
+    Genres on the album span hip hop, pop, jazz, soul and reggae. The cover art depicts an identification card for a character named "Tyler Baudelaire" in reference to the French poet Charles Baudelaire, whose work has been regarded by music journalists as comparable to the explicit nature and themes of Tyler's music.
+</p>
+<h1>Links</h1>
+<p>
+    <button href="https://www.xxlmag.com/tyler-the-creator-interview/">Interview</button>
+    <button href="https://www.vulture.com/2021/06/tyler-the-creator-call-me-if-you-get-lost-album-review.html">Review</button>
+    <button href="https://www.google.ru/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjc3YW_4dz6AhUG_IUKHSlVA3MQFnoECDoQAQ&url=https%3A%2F%2Fwww.vogue.fr%2Fmode%2Farticle%2Ftyler-the-creator-interview-exclusive&usg=AOvVaw3lBa7gpTIeQAuaJeKVA_55">Tyler for Vogue</button>
+</p>
+        </body>
+    </head>
+</html>
